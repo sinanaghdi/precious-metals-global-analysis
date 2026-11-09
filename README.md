@@ -6,9 +6,8 @@ An exploratory commodity-market analysis of **gold, silver, platinum and palladi
 
 ## Project deliverables
 
-- **Interactive dashboard:** [Open dashboard](dashboard/Precious_Metals_Dashboard_2021_2025.html)
-- **Analysis workbook:** [Download Excel workbook](data/Precious_Metals_Global_2021_2025.xlsx)
 - **Methodology and limitations:** [Read the methodology](docs/METHODOLOGY.md)
+- **Dashboard and Excel source files:** the original generated artifacts are not yet committed in this initial repository setup; the analysis scope, workbook structure and audit notes are documented below.
 
 ## Coverage
 
@@ -65,7 +64,7 @@ An exploratory commodity-market analysis of **gold, silver, platinum and palladi
 
 ## Reproducibility
 
-The Excel workbook contains the prepared observations and derived tables. The dashboard is a self-contained HTML document apart from its Plotly JavaScript dependency, which is loaded from a CDN; an internet connection is required for chart rendering.
+The intended deliverables are an Excel workbook containing prepared observations and derived tables, and a Plotly-based HTML dashboard. The original binary artifacts still need to be added to this repository. The dashboard requires an internet connection to load Plotly from its CDN.
 
 ## Sources
 
